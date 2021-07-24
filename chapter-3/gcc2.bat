@@ -1,0 +1,1 @@
+gcc -c simpleSection2.c
